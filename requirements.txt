@@ -1,0 +1,8 @@
+fastapi 
+uvicorn 
+locust 
+redis 
+celery 
+aiofiles
+sqlalchemy 
+asyncpg
